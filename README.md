@@ -1,2 +1,0 @@
-# .github
-Decorative organization README!
