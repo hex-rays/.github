@@ -1,4 +1,4 @@
-<a href="https://discord.gg/hexrays"><img src="![image](https://github.com/hex-rays/.github/blob/main/profile/banner.png)"></a>
+<a href="https://discord.gg/hexrays"><img src="https://github.com/hex-rays/.github/blob/c2b74ebd4ca9296ebb917e37e320a13a5dc78e91/profile/banner.png"></a>
 
 ---
 
